@@ -1,7 +1,7 @@
 # Site
 name: "ArtCraft Games"
 title: "ArtCraft Games"
-description: "Game engine"
+description: "JavaSctipt/TypeScript/Game Engine"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/blog'
