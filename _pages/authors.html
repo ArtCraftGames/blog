@@ -22,9 +22,12 @@ comments: false
                     {% endif %}
 
                     {% if author[1].twitter %}
-                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].twitter }}"><i class="fab fa-twitter"></i></a>
+                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].twitter }}"><i class="fa-brands fa-x-twitter"></i></a>
                     {% endif %}
 
+                    {% if author[1].twitter %}
+                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].youtube }}"><i class="fa-brands fa-youtube"></i></a>
+                    {% endif %}
                     {% if author[1].email %}
                         <a class="d-inline-block mx-1 text-dark" href="mailto:{{ author[1].email }}"><i class="fa fa-envelope"></i></a>
                     {% endif %}
