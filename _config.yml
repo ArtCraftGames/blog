@@ -4,7 +4,7 @@ title: "ArtCraft Games"
 description: "JavaSctipt / TypeScript / Game Engine"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/blog'
+baseurl:
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'artcraftgames'
 mailchimp-list: 
