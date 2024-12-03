@@ -7,8 +7,8 @@ comments: true
 
 <iframe 
   src="https://artcraftgames.github.io/ArtCraftEngine/games/fallingletter/" 
-  width="800" 
-  height="600" 
+  width="820" 
+  height="620" 
   style="border:none;" 
   allowfullscreen>
 </iframe>
