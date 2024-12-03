@@ -4,7 +4,7 @@ title: "Introduction to JavaScript Variables and Data Types"
 author: georgii
 categories: [ JavaScript, Programming ]
 tags: [ JavaScript, Variables, Data Types ]
-image: assets/images/2024-12-3-introduct-javascript-vars/js-variables.png
+image: assets/images/post/2024-12-3-introduct-javascript-vars/js-variables.png
 beforetoc: "Understanding variables and data types is essential for mastering JavaScript, especially for game development. In this article, we'll explore the fundamental concepts and provide examples to kickstart your learning."
 toc: true
 comments: true
