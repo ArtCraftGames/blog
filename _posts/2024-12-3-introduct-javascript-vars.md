@@ -1,13 +1,13 @@
-```markdown
 ---
 layout: post
 title: "Introduction to JavaScript Variables and Data Types"
 author: georgii
 categories: [ JavaScript, Programming ]
 tags: [ JavaScript, Variables, Data Types ]
-image: assets/images/js-variables.jpg
+image: assets/images/2024-12-3-introduct-javascript-vars/js-variables.png
 beforetoc: "Understanding variables and data types is essential for mastering JavaScript, especially for game development. In this article, we'll explore the fundamental concepts and provide examples to kickstart your learning."
 toc: true
+comments: true
 ---
 
 JavaScript variables and data types are the foundation of any program you create. They allow you to store and manipulate information, whether it's a player's score, game settings, or character details. Let’s dive into the basics and see how they can be used effectively.
@@ -233,6 +233,3 @@ Variables and data types are the cornerstone of JavaScript programming. Understa
 ---
 
 Happy Coding!
-``` 
-
-This article now adheres strictly to your requested Jekyll formatting style. Let me know if further adjustments are needed!
